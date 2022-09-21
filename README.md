@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/marion-hrlt/marion-hrlt/blob/main/assets/img/logo.png" width="15%">
+  <img src="https://github.com/marion-hrlt/marion-hrlt/blob/main/assets/img/logomarion.png" width="15%">
   <br><br>
   <samp>
     I'm Marion
