@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ! 👋
 
 <!--
 **marion-hrlt/marion-hrlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/marion-hrlt/marion-hrlt/blob/main/assets/img/logo.png" width="15%">
+  <br><br>
+  <samp>
+    I'm Marion
+    <br><br>
+    :dizzy: Web developer (Front-end | Back-end) :dizzy:
+  </samp>
+</p>
+
+
+---
+
+<p>🔭 Skills : Wordpress, Symfony, Sass, JS</p>
