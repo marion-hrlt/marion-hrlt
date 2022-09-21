@@ -1,5 +1,3 @@
-### Hi ! 👋
-
 <!--
 **marion-hrlt/marion-hrlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +26,10 @@ Here are some ideas to get you started:
 
 ---
 
-<p>🔭 Skills : Wordpress, Symfony, Sass, JS</p>
+<p>Skills : Wordpress, Symfony, Sass, JS</p>
+<p>🔭 Currently working on Wordpress</p>
+<p>🌱 Currently learning animation and making SVG (SVG / JS)</p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=marion-hrlt&show_icons=true)
+
+![Profile views](https://gpvc.arturio.dev/marion-hrlt)
