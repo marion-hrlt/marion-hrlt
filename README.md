@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marion-hrlt&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=marion-hrlt&icon=6&color=6)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=marion-hrlt&icon=6&color=6)](https://visitcount.itsvg.in)
