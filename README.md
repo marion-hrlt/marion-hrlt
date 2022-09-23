@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 
 ---
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>Skills : Wordpress, Symfony, Sass, JS</p>
-<p>🔭 Currently working on Wordpress</p>
-<p>🌱 Currently learning animation and making SVG (SVG / JS)</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=marion-hrlt&show_icons=true)
+<p><samp>🔭 Currently working on Wordpress</samp></p>
+<p><samp>🌱 Currently learning animation and making SVG (SVG / JS)</samp></p>
 
-![Profile views](https://gpvc.arturio.dev/marion-hrlt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marion-hrlt&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=marion-hrlt&icon=6&color=6)](https://visitcount.itsvg.in)
