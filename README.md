@@ -23,28 +23,16 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-
 ---
-<div align="center">  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <p><samp>🔭 Currently working on Wordpress</samp></p>
 <p><samp>🌱 Currently learning animation and making SVG (SVG / JS)</samp></p>
 
-<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=marion-hrlt&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marion-hrlt&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=marion-hrlt&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marion-hrlt&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+[![](https://visitcount.itsvg.in/api?id=marion-hrlt&icon=6&color=12)](https://visitcount.itsvg.in)
